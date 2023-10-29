@@ -5,7 +5,7 @@ This is the repository for our paper titled "[Motif-guided time series counterfa
 In this paper, we propose Attention-based Counterfactual Explanation (AB-CF), a novel model that generates post-hoc counterfactual explanations for multivariate time series classification that narrows the attention to a few important segments. We validated our model using seven real-world time-series datasets from the UEA repository. Our experimental results show the superiority of AB-CF in terms of validity, proximity, sparsity, contiguity, and efficiency compared with other competing state-of-the-art baselines.
 
 # Approach
-[Main Method](main_fig.png) 
+![Main Method](main_fig.png) 
 
 # Dataset
 The data used in this project comes from the [UEA](https://arxiv.org/abs/1811.00075) archive.
