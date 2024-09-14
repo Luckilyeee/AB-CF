@@ -1,5 +1,5 @@
 # AB-CF: Attention-based Counterfactual Explanation for Multivariate Time Series 
-This is the repository for our paper titled "[Motif-guided time series counterfactual explanations](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26)". This paper has been accepted at the [Big Data Analytics and Knowledge Discovery 25th International Conference, DaWaK 2023](https://link.springer.com/book/10.1007/978-3-031-39831-5)
+This is the repository for our paper titled "[Attention-Based Counterfactual Explanation for Multivariate Time Series](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26)". This paper has been accepted at the [Big Data Analytics and Knowledge Discovery 25th International Conference, DaWaK 2023](https://link.springer.com/book/10.1007/978-3-031-39831-5)
  
 # Abstract
 In this paper, we propose Attention-based Counterfactual Explanation (AB-CF), a novel model that generates post-hoc counterfactual explanations for multivariate time series classification that narrows the attention to a few important segments. We validated our model using seven real-world time-series datasets from the UEA repository. Our experimental results show the superiority of AB-CF in terms of validity, proximity, sparsity, contiguity, and efficiency compared with other competing state-of-the-art baselines.
